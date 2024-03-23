@@ -1,2 +1,2 @@
 
-## [Responsive Skyline]((https://fcc-responsive-skyline.netlify.app)https://fcc-responsive-skyline.netlify.app)
+<a href="https://fcc-responsive-skyline.netlify.app" target="_blank">Responsive Skyline</a>
